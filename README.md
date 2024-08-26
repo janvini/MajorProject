@@ -1,5 +1,3 @@
-# MajorProject
-
 # Sentiment Analysis Project
 
 ## Overview
